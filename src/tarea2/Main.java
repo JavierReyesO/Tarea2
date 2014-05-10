@@ -55,6 +55,7 @@ public class Main extends JFrame{
             }        
     }
     
+    //wea
     
     static void ImprimirTablero(Bloque tablero[][]){
         System.out.print("\n\n\n\n\n\n\n");
